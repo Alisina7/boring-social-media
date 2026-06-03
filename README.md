@@ -1,4 +1,6 @@
-<div align="center">  
+<div align="center">
+  
+  
   # 🥱 Boring Social Media
   
   **Reclaim your focus. Turn addictive algorithms into boring grayscale pixels.**
