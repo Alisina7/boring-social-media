@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/no-video.png" alt="Logo" width="80" height="80">
+  <img src="https://github.com/Alisina7/boring-social-media/icons/icon-128.png" alt="Logo" width="80" height="80">
   
   # 🥱 Boring Social Media
   
   **Reclaim your focus. Turn addictive algorithms into boring grayscale pixels.**
   
   [![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue.svg)](https://developer.chrome.com/docs/extensions/mv3/)
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Custom](https://img.shields.io/badge/License-Custom-red.svg)](LICENSE)
   [![Developer](https://img.shields.io/badge/Developer-Sina_Kazemi-success.svg)](https://github.com/Alisina7)
 
   [English](#english) • [فارسی (Persian)](#فارسی)
