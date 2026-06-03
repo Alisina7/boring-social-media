@@ -1,0 +1,3 @@
+html.boring-grayscale {
+    filter: grayscale(100%) !important;
+}
