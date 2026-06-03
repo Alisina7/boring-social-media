@@ -28,7 +28,7 @@
 ### 🚀 Installation (Developer Mode)
 1. Clone this repository or download it as a ZIP file.
 ```bash
-   git clone [https://github.com/Alisina7/boring-social-media.git](https://github.com/YOUR_GITHUB_USERNAME/boring-social-media.git)
+   git clone https://github.com/Alisina7/boring-social-media.git
    ```
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable **Developer mode** (top right corner).
