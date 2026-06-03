@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/Alisina7/boring-social-media/icons/icon-128.png" alt="Logo" width="80" height="80">
-  
+<div align="center">  
   # 🥱 Boring Social Media
   
   **Reclaim your focus. Turn addictive algorithms into boring grayscale pixels.**
