@@ -14,7 +14,7 @@
 
 ---
 
-<h2 id="english">🇬🇧 English Documentation</h2>
+<h2 id="english">English Documentation</h2>
 
 ### 🧠 The Concept
 "Boring Social Media" is an open-source Chrome Extension designed to break the dopamine loop created by social media algorithms. By stripping away colors (applying a strict grayscale filter) and presenting harsh scientific facts about social media addiction during the first 10 seconds of your visit, it makes endless scrolling significantly less appealing.
